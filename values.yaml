@@ -11,7 +11,7 @@ fullnameOverride: ""
 
 enableAuth: false
 enableGuests: true
-publicURL: ""
+publicURL: "rocketchat.crossfounder.com"
 
 tz: Europe/Amsterdam
 
